@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/luismartinezs/robofriends/static/css/main.bcfe9beb.chunk.css",
-    "main.js": "/luismartinezs/robofriends/static/js/main.cf6603b8.chunk.js",
-    "main.js.map": "/luismartinezs/robofriends/static/js/main.cf6603b8.chunk.js.map",
-    "runtime~main.js": "/luismartinezs/robofriends/static/js/runtime~main.18adab79.js",
-    "runtime~main.js.map": "/luismartinezs/robofriends/static/js/runtime~main.18adab79.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/luismartinezs/robofriends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.ffbb8eeb.chunk.js": "/luismartinezs/robofriends/static/js/2.ffbb8eeb.chunk.js",
-    "static/js/2.ffbb8eeb.chunk.js.map": "/luismartinezs/robofriends/static/js/2.ffbb8eeb.chunk.js.map",
-    "index.html": "/luismartinezs/robofriends/index.html",
-    "precache-manifest.1a2dafa613977cc03867b24c987161fd.js": "/luismartinezs/robofriends/precache-manifest.1a2dafa613977cc03867b24c987161fd.js",
-    "service-worker.js": "/luismartinezs/robofriends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/luismartinezs/robofriends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.bcfe9beb.chunk.css.map": "/luismartinezs/robofriends/static/css/main.bcfe9beb.chunk.css.map",
-    "static/media/App.css": "/luismartinezs/robofriends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/static/css/main.3df9def5.chunk.css",
+    "main.js": "/static/js/main.37de8e00.chunk.js",
+    "main.js.map": "/static/js/main.37de8e00.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.ffbb8eeb.chunk.js": "/static/js/2.ffbb8eeb.chunk.js",
+    "static/js/2.ffbb8eeb.chunk.js.map": "/static/js/2.ffbb8eeb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7c9a17de29ef0bdb8bcf4c60d72276f3.js": "/precache-manifest.7c9a17de29ef0bdb8bcf4c60d72276f3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.3df9def5.chunk.css.map": "/static/css/main.3df9def5.chunk.css.map",
+    "static/media/App.css": "/static/media/SEGA.12a3db8b.woff"
   }
 }
