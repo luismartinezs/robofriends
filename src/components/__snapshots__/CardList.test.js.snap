@@ -1,3 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`expect to render Card component 1`] = `ShallowWrapper {}`;
+exports[`expect to render CardList component 1`] = `
+<div>
+  <Card
+    email="jon@winterfell.com"
+    id={1}
+    key="1"
+    name="Jon Snow"
+  />
+</div>
+`;

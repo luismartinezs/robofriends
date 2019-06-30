@@ -3,14 +3,8 @@ import { shallow, mount, render } from "enzyme";
 // most of the time use shallow
 // mount: full DOM render, requires full DOM API (JS DOM, headless browser, actual browser...)
 // render: render components to static HTML (using cheerio lib), renders any children of current component (unlike shallow)
-import CardList from "./CardList";
+import CounterButton from "./CounterButton";
 
-it("expect to render CardList component", () => {
-  const mockRobots = [{
-		id: 1,
-		name: "Jon Snow",
-		username: "JonJon",
-		email: "jon@winterfell.com"
-	}]
-  expect(shallow(<CardList robots={mockRobots} />)).toMatchSnapshot();
+it("expect to render CounterButton component", () => {
+  expect(shallow(<CounterButton />)).toMatchSnapshot();
 });
