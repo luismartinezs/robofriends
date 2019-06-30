@@ -1,8 +1,8 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-	"private": true,
-	"homepage": ".",
+  "private": true,
+  "homepage": ".",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
     "gh-pages": "^2.0.1"
   }
 }
