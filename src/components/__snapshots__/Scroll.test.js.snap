@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render children correctly 1`] = `
+<div
+  style="overflow-y:scroll;border:5px solid black;height:800px"
+>
+  <div
+    style="height:3000px;width:100%"
+  />
+</div>
+`;
