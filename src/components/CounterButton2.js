@@ -35,4 +35,4 @@ constructor(props) {super(props);
 
 }
 
-export default CounterButton;
+export default CounterButton2;
